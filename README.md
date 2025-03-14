@@ -2,7 +2,8 @@
 이름 : ELIXIR <br>
 장르 : `2d` `puzzle` `simulation` <br>
 기간 : 2025. 2. 17-23. (7일) <br>
-인원 : 1명 
+인원 : 1명 <br>
+개발 : 유니티, C#
 
 게임 플레이 링크 : https://ttobing3.itch.io/elixir
 
