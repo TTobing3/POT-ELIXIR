@@ -1,6 +1,6 @@
 # 정보
 이름 : ELIXIR <br>
-장르 : `2d` `puzzle` `simulation` <br>
+장르 : `2d` `puzzle` `casual` `simulation` <br>
 기간 : 2025. 2. 17-23. (7일) <br>
 인원 : 1명 <br>
 개발 : 유니티, C#
